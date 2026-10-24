@@ -118,7 +118,6 @@ A suggested logical structure for the project:
 ```text
 project/
 ├── Bexar_DDoS.py
-├── requirements.txt # Dependencies
 ├── LICENSE
 └── README.md
 ```
