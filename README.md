@@ -117,11 +117,7 @@ A suggested logical structure for the project:
 
 ```text
 project/
-├── src/             # Core application
-├── config/          # Configuration
-├── tests/           # Automated tests
-├── reports/         # Test results
-├── docs/            # Documentation
+├── Bexar_DDoS.py
 ├── requirements.txt # Dependencies
 ├── LICENSE
 └── README.md
