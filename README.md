@@ -69,8 +69,8 @@ Update this section to match your actual implementation.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Elliot9382/Bexar-DDoS
+cd Bexar-DDoS
 ```
 
 ### Create a virtual environment
