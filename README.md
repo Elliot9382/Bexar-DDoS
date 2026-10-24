@@ -91,7 +91,6 @@ source .venv/bin/activate
 
 ### Install dependencies
 
-If your repository contains a `requirements.txt` file:
 
 ```bash
 python -m pip install -r requirements.txt
@@ -106,10 +105,9 @@ The exact commands depend on the scripts and options implemented in your reposit
 View the available options:
 
 ```bash
-python Bexar_DDoS.py --help
+python3 Bexar_DDoS.py
 ```
 
-Replace `Bexar_DDoS.py` with your actual entry-point filename.
 
 For initial testing, use a local service or a dedicated lab system that you control. Start with conservative limits and monitor resource consumption throughout the test.
 
