@@ -42,19 +42,8 @@ Whether you're building a cybersecurity lab, studying network protocols, or vali
 
 ## 🖥️ Project Preview
 
-> Add a screenshot, terminal recording, dashboard preview, or sample report here.
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9c83cc0c-95a4-4d67-ab5b-663f336268d4" />
 
-```text
-┌──────────────────────────────────────────────┐
-│              [PROJECT NAME]                  │
-│        Network Research Toolkit              │
-├──────────────────────────────────────────────┤
-│  Target:       Authorized Lab                 │
-│  Mode:         Diagnostic / Testing          │
-│  Metrics:      Latency / Errors / Throughput │
-│  Reporting:    Structured Results            │
-└──────────────────────────────────────────────┘
-```
 
 ## 🧰 Technology Stack
 
